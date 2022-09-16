@@ -1,2 +1,2 @@
-# Aplicacao-do-Ajax
+# Aplicação Ajax
 Atividade de PAM
